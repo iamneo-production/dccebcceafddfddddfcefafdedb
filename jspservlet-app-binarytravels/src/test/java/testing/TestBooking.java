@@ -3,7 +3,7 @@ package testing;
 
 
 
-import static org.junit.Assert.*;
+import static org.junit.*;
 import org.junit.Test;
 
 import services.Booking;
